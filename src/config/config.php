@@ -14,7 +14,7 @@ return [
     |
     */
 
-    'type' => Type::VERTICAL,
+    'type' => Type::HORIZONTAL,
 
     /*
     |--------------------------------------------------------------------------
@@ -27,8 +27,8 @@ return [
     |
     */
 
-    'left_column_class'  => 'col-sm-2 col-md-3',
-    'right_column_class' => 'col-sm-3 col-md-9',
+    'left_column_class'  => 'col-sm-2 col-md-2',
+    'right_column_class' => 'col-sm-9 col-md-9',
 
     'left_column_offset_class' => 'col-sm-offset-2 col-md-offset-3',
 
